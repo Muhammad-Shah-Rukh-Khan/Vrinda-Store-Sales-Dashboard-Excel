@@ -31,5 +31,7 @@ The store boasts a high successful delivery rate of around 95%.
 
 ## Technologies Used
 Excel - For data analysis, dashboard creation, and visualization
+
 PivotTables & PivotCharts - Utilized for data summarization and charting
+
 Data Analysis Tools - Including slicers, formulas, and conditional formatting for dynamic reporting
