@@ -18,11 +18,16 @@ It delivers insights into product performance, customer behavior, and sales tren
 ## Key Insights
 Through data analysis, I uncovered five major insights:
 
-### Strong Quarterly Sales: The first quarter shows particularly high sales performance.
-### Top-Selling Category: Women's clothing, especially for adults, is the best-selling category.
-### Geographic Leader: Maharashtra has the highest order volume, making it a key market.
-### Channel Performance: Approximately 33% of orders come through Amazon, highlighting it as a major sales channel.
-### Delivery Success Rate: The store boasts a high successful delivery rate of around 95%.
+### Strong Quarterly Sales:
+The first quarter shows particularly high sales performance.
+### Top-Selling Category:
+Women's clothing, especially for adults, is the best-selling category.
+### Geographic Leader:
+Maharashtra has the highest order volume, making it a key market.
+### Channel Performance:
+Approximately 33% of orders come through Amazon, highlighting it as a major sales channel.
+### Delivery Success Rate:
+The store boasts a high successful delivery rate of around 95%.
 
 ## Technologies Used
 Excel - For data analysis, dashboard creation, and visualization
